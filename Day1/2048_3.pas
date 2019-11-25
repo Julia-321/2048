@@ -11,6 +11,8 @@ begin
   drawTextCentered((x-1)*a, (y-1)*a, x*a, y*a, num[x][y])
 end;
 
+{dick}
+
 var i: integer;
 BEGIN
   a := 50;
